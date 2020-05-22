@@ -67,3 +67,21 @@ button:hover {
   justify-content: center;
   text-align: center;
 }
+.column1 {
+  display: block;
+  background-color: #926239;
+  color: white;
+  padding: 10px;
+}
+.column2 {
+  display: block;
+  background-color: #f4f4f4;
+  color: #926239;
+  padding: 10px;
+}
+.column3 {
+  display: block;
+  background-color: #926239;
+  color: white;
+  padding: 10px;
+}
