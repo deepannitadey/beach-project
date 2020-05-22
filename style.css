@@ -45,3 +45,11 @@ button:hover {
   background-color: #926239;
   color: white;
 }
+.content1 {
+  display: block;
+  background-color: #926239;
+  color: white;
+  font-size: 15pt;
+  text-align: center;
+  padding: 20px;
+}
