@@ -18,3 +18,9 @@ body {
   height: 100vh;
   position: relative;
 }
+h1 {
+  color: #926239;
+  font-size: 44pt;
+  font-weight: 2%;
+  margin: 5px;
+}
