@@ -24,3 +24,8 @@ h1 {
   font-weight: 2%;
   margin: 5px;
 }
+.image > p {
+  color: #926239;
+  font-size: 16pt;
+  margin: 2px;
+}
