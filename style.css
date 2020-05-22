@@ -29,3 +29,15 @@ h1 {
   font-size: 16pt;
   margin: 2px;
 }
+button {
+  color: #926239;
+  border: 1px solid #926239;
+  border-radius: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: transparent;
+  font-size: 14pt;
+  margin-top: 20px;
+}
